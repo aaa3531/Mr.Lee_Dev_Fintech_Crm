@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A95AA87-1750-4F01-840F-FCBA0406C320}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DH_CRM</RootNamespace>
+    <AssemblyName>DBmachine</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\DBmachine\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoUpdater.NET, Version=1.6.4.0, Culture=neutral, PublicKeyToken=501435c91b35f4bc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autoupdater.NET.Official.1.6.4\lib\net45\AutoUpdater.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.C1Zip.4.5.2" />
+    <Reference Include="C1.Win.4.5.2" />
+    <Reference Include="C1.Win.C1Command.4.5.2" />
+    <Reference Include="C1.Win.C1FlexGrid.4.5.2" />
+    <Reference Include="C1.Win.C1Input.4.5.2" />
+    <Reference Include="C1.Win.C1Sizer.4.5.2" />
+    <Reference Include="C1.Win.C1Themes.4.5.2" />
+    <Reference Include="C1.Win.Calendar.4.5.2" />
+    <Reference Include="C1.Win.Ribbon.4.5.2" />
+    <Reference Include="EPPlus, Version=4.5.3.3, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.3.3\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\getConfig.cs" />
+    <Compile Include="Data_Member.cs" />
+    <Compile Include="Data_Processing.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoading.designer.cs">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\iniFile.cs" />
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm고객등록.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm고객등록.Designer.cs">
+      <DependentUpon>frm고객등록.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm고객등록정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm고객등록정보.designer.cs">
+      <DependentUpon>frm고객등록정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm고객정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm고객정보.Designer.cs">
+      <DependentUpon>frm고객정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm공휴일정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm공휴일정보.Designer.cs">
+      <DependentUpon>frm공휴일정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm담당자변경.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm담당자변경.Designer.cs">
+      <DependentUpon>frm담당자변경.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm매출관리.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm매출관리.Designer.cs">
+      <DependentUpon>frm매출관리.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm매출등록.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm매출등록.Designer.cs">
+      <DependentUpon>frm매출등록.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm매출자료검색.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm매출자료검색.Designer.cs">
+      <DependentUpon>frm매출자료검색.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm문자내역.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm문자내역.Designer.cs">
+      <DependentUpon>frm문자내역.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm문자설정.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm문자설정.Designer.cs">
+      <DependentUpon>frm문자설정.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm문자정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm문자정보.Designer.cs">
+      <DependentUpon>frm문자정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm사용자관리.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm사용자관리.Designer.cs">
+      <DependentUpon>frm사용자관리.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm사용자추가.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm사용자추가.Designer.cs">
+      <DependentUpon>frm사용자추가.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm사용자환경설정.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm사용자환경설정.Designer.cs">
+      <DependentUpon>frm사용자환경설정.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm상태설정.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm상태설정.Designer.cs">
+      <DependentUpon>frm상태설정.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm소속팀설정.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm소속팀설정.Designer.cs">
+      <DependentUpon>frm소속팀설정.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm업무일지.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm업무일지.Designer.cs">
+      <DependentUpon>frm업무일지.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm엑셀가져오기.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm엑셀가져오기.Designer.cs">
+      <DependentUpon>frm엑셀가져오기.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm엑셀자료변환옵션.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm엑셀자료변환옵션.Designer.cs">
+      <DependentUpon>frm엑셀자료변환옵션.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm연락처추가.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm연락처추가.Designer.cs">
+      <DependentUpon>frm연락처추가.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm일정관리.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm일정관리.Designer.cs">
+      <DependentUpon>frm일정관리.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm자료검색.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm자료검색.Designer.cs">
+      <DependentUpon>frm자료검색.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm통계.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm통계.Designer.cs">
+      <DependentUpon>frm통계.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm특정항목변경.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm특정항목변경.Designer.cs">
+      <DependentUpon>frm특정항목변경.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm프로그램정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm프로그램정보.Designer.cs">
+      <DependentUpon>frm프로그램정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm환경설정비밀번호.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm환경설정비밀번호.Designer.cs">
+      <DependentUpon>frm환경설정비밀번호.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="classes\SQLServer.cs" />
+    <Compile Include="classes\userInfo.cs" />
+    <Compile Include="uc저장된문자.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc저장된문자.Designer.cs">
+      <DependentUpon>uc저장된문자.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoading.resx">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm고객등록.resx">
+      <DependentUpon>frm고객등록.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm고객등록정보.resx">
+      <DependentUpon>frm고객등록정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm고객정보.resx">
+      <DependentUpon>frm고객정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm공휴일정보.resx">
+      <DependentUpon>frm공휴일정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm담당자변경.resx">
+      <DependentUpon>frm담당자변경.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm매출관리.resx">
+      <DependentUpon>frm매출관리.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm매출등록.resx">
+      <DependentUpon>frm매출등록.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm매출자료검색.resx">
+      <DependentUpon>frm매출자료검색.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm문자내역.resx">
+      <DependentUpon>frm문자내역.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm문자설정.resx">
+      <DependentUpon>frm문자설정.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm문자정보.resx">
+      <DependentUpon>frm문자정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm사용자관리.resx">
+      <DependentUpon>frm사용자관리.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm사용자추가.resx">
+      <DependentUpon>frm사용자추가.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm사용자환경설정.resx">
+      <DependentUpon>frm사용자환경설정.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm상태설정.resx">
+      <DependentUpon>frm상태설정.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm소속팀설정.resx">
+      <DependentUpon>frm소속팀설정.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm업무일지.resx">
+      <DependentUpon>frm업무일지.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm엑셀가져오기.resx">
+      <DependentUpon>frm엑셀가져오기.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm엑셀자료변환옵션.resx">
+      <DependentUpon>frm엑셀자료변환옵션.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm연락처추가.resx">
+      <DependentUpon>frm연락처추가.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm일정관리.resx">
+      <DependentUpon>frm일정관리.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm자료검색.resx">
+      <DependentUpon>frm자료검색.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm통계.resx">
+      <DependentUpon>frm통계.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm특정항목변경.resx">
+      <DependentUpon>frm특정항목변경.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm프로그램정보.resx">
+      <DependentUpon>frm프로그램정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm환경설정비밀번호.resx">
+      <DependentUpon>frm환경설정비밀번호.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="uc저장된문자.resx">
+      <DependentUpon>uc저장된문자.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBmachine.gclicx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMAGE\close_down.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMAGE\close_normal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMAGE\close_over.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

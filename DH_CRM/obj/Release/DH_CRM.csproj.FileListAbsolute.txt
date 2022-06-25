@@ -1,0 +1,134 @@
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.Form1.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.Form2.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frmLoading.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frmLogin.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frmMain.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm고객등록.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm고객등록정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm고객정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm공휴일정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm담당자변경.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm매출관리.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm매출등록.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm매출자료검색.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm문자내역.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm문자설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm문자정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm사용자관리.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm사용자추가.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm사용자환경설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.상태설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm소속팀설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm업무일지.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm엑셀가져오기.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm엑셀자료변환옵션.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm연락처추가.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm일정관리.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm자료검색.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm통계.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm특정항목변경.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm프로그램정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.frm환경설정비밀번호.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.MainForm.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.Properties.Resources.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.uc저장된문자.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.csproj.GenerateResource.cache
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DBmachine.exe.licenses
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.csprojAssemblyReference.cache
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\DBmachine.exe.config
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\DBmachine.exe
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\DBmachine.pdb
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\AutoUpdater.NET.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.C1Zip.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Command.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1FlexGrid.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Input.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Sizer.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Themes.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.Calendar.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.Ribbon.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\EPPlus.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\AutoUpdater.NET.pdb
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\AutoUpdater.NET.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.C1Zip.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Command.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1FlexGrid.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Input.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Sizer.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.C1Themes.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.Calendar.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\C1.Win.Ribbon.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\bin\Release\EPPlus.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DH_CRM.csproj.CopyComplete
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DBmachine.exe
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일\DH_CRM\obj\Release\DBmachine.pdb
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\DBmachine.exe.config
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\DBmachine.exe
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\DBmachine.pdb
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\AutoUpdater.NET.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.C1Zip.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Command.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1FlexGrid.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Input.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Sizer.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Themes.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.Calendar.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.Ribbon.4.5.2.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\EPPlus.dll
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\AutoUpdater.NET.pdb
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\AutoUpdater.NET.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.C1Zip.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Command.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1FlexGrid.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Input.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Sizer.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.C1Themes.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.Calendar.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\C1.Win.Ribbon.4.5.2.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\bin\Release\EPPlus.xml
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.csprojAssemblyReference.cache
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.Form1.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.Form2.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frmLoading.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frmLogin.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frmMain.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm고객등록.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm고객등록정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm고객정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm공휴일정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm담당자변경.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm매출관리.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm매출등록.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm매출자료검색.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm문자내역.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm문자설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm문자정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm사용자관리.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm사용자추가.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm사용자환경설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.상태설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm소속팀설정.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm업무일지.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm엑셀가져오기.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm엑셀자료변환옵션.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm연락처추가.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm일정관리.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm자료검색.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm통계.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm특정항목변경.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm프로그램정보.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.frm환경설정비밀번호.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.MainForm.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.Properties.Resources.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.uc저장된문자.resources
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.csproj.GenerateResource.cache
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DBmachine.exe.licenses
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DH_CRM.csproj.CopyComplete
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DBmachine.exe
+C:\Users\X\Desktop\CRM 유지보수\새 폴더\빌드 파일 - 복사본\DH_CRM\obj\Release\DBmachine.pdb
